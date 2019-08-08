@@ -97,8 +97,8 @@ div {
 	position: absolute;
 	overflow: hidden;
 	top: 30%;
-	width: 70%;
-	left: 15%;
+	width: 90%;
+	left: 5%;
 }
 
 #nav{
@@ -107,8 +107,8 @@ div {
 	padding: 20px; 
 	padding-bottom: 1px;
 	bottom: 0;
-	left: 15%;
-	width: 70%;
+	left: 5%;
+	width: 90%;
 	height: 6%;
 	background:linear-gradient(0deg,rgba(185, 205, 248, 0.6),rgba(185, 225, 248, 0.24)),url(../images/bkg2.png);
 	font-size: 1.4em
@@ -120,8 +120,8 @@ div {
 	padding: 20px; 
 	padding-bottom: 1px;
 	bottom: 0;
-	left: 15%;
-	width: 70%;
+	left: 5%;
+	width: 90%;
 	height: 6%;
 	background:linear-gradient(0deg,rgba(185, 205, 248, 0.6),rgba(185, 225, 248, 0.24)),url(../images/bkg2.png);
 	font-size: 1.4em
@@ -133,8 +133,8 @@ div {
 	padding: 20px; 
 	padding-bottom: -15%;
 	top: 7.5%;
-	left: 15%;
-	width: 70%;
+	left: 5%;
+	width: 90%;
 	height: 80.3%;
 	background:linear-gradient(0deg,rgba(241, 255, 255, 0.6),rgba(225, 245, 255, 0.24)),url(../images/bkg2.png);
 	font-size: 1.4em;
@@ -150,8 +150,8 @@ div {
 	padding-top: 1%;
 	padding-bottom: 0px;
 	top: 0;
-	left: 15%;
-	width: 70%;
+	left: 5%;
+	width: 90%;
 	height: 6%;
 	background:linear-gradient(0deg,rgba(185, 205, 248, 0.6),rgba(185, 225, 248, 0.24)),url(../images/bkg2.png);
 	font-size: 1.4em
