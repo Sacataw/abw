@@ -20,7 +20,7 @@ body {
 }
 
 h1 {
-	font-size: 5em;
+	font-size: 4em;
 	font-family: 'League Script', cursive;
 	color: #00275F;
 	margin-top:0em;
@@ -33,7 +33,7 @@ h1 {
 
 h2 {
 	font-family: 'Quicksand', sans-serif;
-	font-size: 3.2em;
+	font-size: 2.2em;
 	color: #00275F;
 	mix-blend-mode: color-burn;
 	margin-top:0em;
@@ -43,7 +43,7 @@ h2 {
 }
 
 h3 {
-	font-size: 2.1em;
+	font-size: 1.1em;
 	font-family: 'League Script', cursive;
 	color: #00275F;
 	margin-top:0em;
